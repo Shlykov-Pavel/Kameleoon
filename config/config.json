@@ -1,0 +1,6 @@
+{
+    "KV_BACK_API":"http://localhost:8099",
+    "KV_REMARKS_API":"http://localhost:8098",
+    "KV_KAMOTIVE_URI": "http://localhost:3000"
+  }
+  
